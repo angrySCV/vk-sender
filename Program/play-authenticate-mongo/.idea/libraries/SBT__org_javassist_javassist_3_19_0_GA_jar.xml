@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.javassist:javassist:3.19.0-GA:jar">
+    <CLASSES>
+      <root url="jar:///System/Library/activator/repository/org.javassist/javassist/3.19.0-GA/bundles/javassist.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
